@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959622020222",
+    "project_id": "orvas-d30c4",
+    "storage_bucket": "orvas-d30c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959622020222:android:98db96754c574b043b2c2f",
+        "android_client_info": {
+          "package_name": "com.dataflair.vehiclehelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959622020222-8oolmulo9qkmupbululrpjtp50lg8a1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATnN3KJwLyc_UOtm8Aq660bFFS1lKQBmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959622020222-8oolmulo9qkmupbululrpjtp50lg8a1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
